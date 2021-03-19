@@ -1,3 +1,5 @@
 # xyz
 
-Turn on the mic, says "XYZ" then say "hello"
+XYZ, your very own personal assistant.
+
+Example: Turn on the mic, say "XYZ" then say "hello"
